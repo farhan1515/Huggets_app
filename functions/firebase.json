@@ -1,0 +1,7 @@
+{
+    "functions": {
+      "predeploy": [],
+      "codebase": "default",
+      "source": "functions"
+    }
+  }
